@@ -1,7 +1,7 @@
-const Home = () => {
+const Home = async () => {
   return (
     <main>
-      Welcome to Sportify
+      Welcome to the home page
     </main>
   );
 }
